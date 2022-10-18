@@ -13,24 +13,23 @@ and being self-hosted. <br /><br /><br />
 
 ## 🏃‍ Quick Start
 
-- Install `salty-chat`:
+1. Install `salty-chat`
+1. Create and register an account
+1. Start chatting!
 
 ```console
 $ go install go.mills.io/saltyim/cmd/salty-chat@latest
-```
-
-- Create and register an account:
-
-```console
 $ salty-chat register <nick>@mills.io
+$ salty-chat chat prologic@mills.io
 ```
 
 Replace `<nick>` with a nickname / alias you'd like.
 
-- Start chatting!
+To test that everything is working you can talk to our echo bot, for example by
+starting a chat with `echo@mills.io` it will echo anything you message it:
 
 ```console
-$ salty-chat chat prologic@mills.io
+$ salty-chat chat echo@mills.io
 ```
 
 **Note:** This quick start installs our reference command-line client
