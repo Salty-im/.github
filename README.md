@@ -1,9 +1,11 @@
 # salty.im - secure, easy, self-hosted messaging
 
+<img align="left" width="100" height="100" src="https://salty.im/logo.png" style="padding-right: 5pt" />
+
 [salty.im](https://salty.im) is an open specification for a new
 [Saltpack](https://saltpack.org) based e2e encrypted messaging protocol
 and platform for secure communications with a focus on privacy, security
-and being self-hosted.
+and being self-hosted. <br /><br /><br />
 
 ## 🎬 Demo
 
